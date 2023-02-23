@@ -11,6 +11,8 @@
 
 - 🤖 My recently works: **[ChatGPT for Wechat](https://chatgpt4wechat.aow.me)**, **[ChatGPT for FileHelper](https://chatgpt4filehelper.aow.me)**
 
+- 🐘 My mastodon node: **[AI Garden](https://chat.aoq.me)**
+
 <h3>Languages and Tools:</h3>
 <p>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
