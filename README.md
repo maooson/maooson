@@ -9,9 +9,7 @@
 
 - 📫 How to reach me **maooson@gmail.com**
 
-- 🤖 My recently works: **[ChatGPT for Wechat](https://chatgpt4wechat.aow.me)**, **[ChatGPT for FileHelper](https://chatgpt4filehelper.aow.me)**
-
-- 🐘 My mastodon node: **[AI Garden](https://chat.aoq.me)**
+- 🤖 My recently works: **[ChatGPT for Wechat](https://chatgpt4wechat.aow.me)**, **[ChatGPT for FileHelper](https://chatgpt4filehelper.aow.me)**, **[ChatGPT for WhatsApp](https://aoq.me)**
 
 <h3>Languages and Tools:</h3>
 <p>
