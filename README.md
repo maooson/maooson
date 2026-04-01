@@ -1,5 +1,5 @@
 <h1>Hi, I'm Infz</h1>
-<h3>I have used good faith efforts to ensure that the information and instructions contained in this work are accurate and drive my readers and followers in best practices to full-stack development.</h3>
+<p>I have used good faith efforts to ensure that the information and instructions contained in this work are accurate and drive my readers and followers in best practices to full-stack development.</p>
 
 <p><img src="https://komarev.com/ghpvc/?username=maooson&label=Profile%20views&color=0e75b6&style=flat" alt="maooson" /></p>
 
@@ -9,7 +9,12 @@
 
 - 📫 How to reach me **maooson@gmail.com**
 
-- 🤖 My recently works: **[ChatGPT for Wechat](https://chatgpt4wechat.aow.me)**, **[ChatGPT for FileHelper](https://chatgpt4filehelper.aow.me)**, **[ChatGPT for WhatsApp](https://aoq.me)**
+- 🤖 My recently works:
+  - **[Agent for Wechat](https://chatgpt4wechat.aow.me)**
+  - **[ChatGPT for FileHelper](https://chatgpt4filehelper.aow.me)**
+  - **[Agent for WhatsApp](https://aoq.me)**
+  - **[Digg X](https://diggx.nian.me)**
+  - **[Musenotes](https://notes.nian.me)**
 
 <h3>Languages and Tools:</h3>
 <p>
